@@ -1,0 +1,3 @@
+displayName = 随机掉落怪
+author = SB
+version = 0.7.0.8

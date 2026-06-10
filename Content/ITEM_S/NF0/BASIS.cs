@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace TEACHER.Content.Items
+namespace TEACHER.Content.ITEM_S.NF0
 {
     /// <summary>
     /// BASIS（噩梦构造体/阴阳玉发射器）

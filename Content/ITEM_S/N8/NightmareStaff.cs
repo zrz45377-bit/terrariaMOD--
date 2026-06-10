@@ -7,7 +7,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria.ModLoader.IO;
 
-namespace TEACHER.Content.ITEM_S.N_8
+namespace TEACHER.Content.ITEM_S.N8
 {
     public class NightmareStaff : ModItem
     {

@@ -7,7 +7,7 @@ using Terraria.DataStructures;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace TEACHER.Content.Items
+namespace TEACHER.Content.ITEM_S.NF0
 {
     public class YinYangOrb : ModProjectile
     {

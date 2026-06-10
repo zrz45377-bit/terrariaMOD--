@@ -127,12 +127,11 @@ Items: {
 	}
 
 	SunWormHelmet: {
-		DisplayName: 死去枯萎的太阳虫
+		DisplayName: 死去枯萎的虫
 		Tooltip:
 			'''
-			伊札里斯的寄生虫，完全不动，却依然活着
 			戴在头上时会发出炫目的光，吞噬一切黑暗
-			'我的太阳落山了……'
+			我的太阳落山了……
 			'''
 	}
 
@@ -173,6 +172,16 @@ Items: {
 				废弃且不知所踪
 				"上面有 爱丽丝 的签名"
 			'''
+	}
+
+	LostHelmet: {
+		DisplayName: 遗失之帽
+		Tooltip: 戴上后，世界会慢慢遗忘你的存在
+	}
+
+	XLostHat: {
+		DisplayName: “姐姐大人 你在吗？”
+		Tooltip: .........
 	}
 }
 
@@ -333,6 +342,7 @@ NPCs: {
 	}
 
 	DespairEye.DisplayName: 绝望之眼
+	LostHat.DisplayName: 无意识之影
 }
 
 Projectiles: {
